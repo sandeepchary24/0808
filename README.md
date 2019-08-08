@@ -2,6 +2,7 @@
 auto deployment
 lajsdi
 kdfjo
+operation
 {
 j
 lj}
